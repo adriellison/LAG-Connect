@@ -8,9 +8,13 @@ O **LAG Connect** é uma rede social criada para programadores e designers compa
 
 ## Imagens do projeto
 
-![Protótipo](inserir_link_da_imagem_do_prototipo_aqui)
+| **Wireframes**
 
-![Wireframes](inserir_link_da_imagem_dos_wireframes_aqui)
+![Wireframes](./images/wireframes.png)
+
+| **Protótipo**
+
+![Protótipo](./images/prototipo.png)
 
 ## Status do Projeto
 
